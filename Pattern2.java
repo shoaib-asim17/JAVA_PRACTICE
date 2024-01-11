@@ -8,10 +8,10 @@ public class Pattern2 {
         Scanner in= new Scanner(System.in);
         int size=in.nextInt();
  
-        patternfuction(size);
+        patternfuction2(size);
  
     }
-     static void patternfuction(int size)
+     static void patternfuction2(int size)
      {
          int row,col;
  
