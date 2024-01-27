@@ -11,7 +11,7 @@ public class array1 {
         Scanner in = new Scanner(System.in);
         int size = in.nextInt();
 
-        int[] arr = new int[size];
+      //  int[] arr = new int[size];
 
             System.out.println("Enter array elements : ");
         Scanner arr_in=new Scanner(System.in);
